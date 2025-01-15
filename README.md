@@ -38,11 +38,16 @@
 
 | **Ejercicio**                      | **Series x Repeticiones** | **Ejemplo**             |
 |-------------------------------------|---------------------------|--------------------------|
-| Peso muerto rumano con barra (sacar bien la cola) | 4 x 15 (bajar lento)      | **IMAGEN_RUMANO_BARRA** |
-| Sentadilla búlgara                  | 4 x 12 por lado           | **IMAGEN_BULGARA**      |
-| Peso muerto sumo (sacar bien la cola) | 4 x 12                    | **IMAGEN_SUMO**         |
-| Elevación de pelvis con barra       | 4 x 20 (hacer lento)      | **IMAGEN_PELOTAS_PELVIS** |
-| Patada de glúteo hacia atrás        | 4 x 20/25 por lado        | **IMAGEN_GLUTEOS_PATADA** |
+| Peso muerto rumano con barra (sacar bien la cola) | 4 x 15 (bajar lento)      | **![image](https://github.com/user-attachments/assets/b5710c2f-8a80-4970-a092-9d1638e96573)
+** |
+| Sentadilla búlgara                  | 4 x 12 por lado           | **![image](https://github.com/user-attachments/assets/0d889825-3ad0-4ed4-99d9-ddba6966e670)
+**      |
+| Peso muerto sumo (sacar bien la cola) | 4 x 12                    | **![image](https://github.com/user-attachments/assets/29fc6bfb-e320-4b24-804e-ff384fb61603)
+**         |
+| Elevación de pelvis con barra       | 4 x 20 (hacer lento)      | **![image](https://github.com/user-attachments/assets/605abc06-332d-496c-8685-aeda9b540580)
+** |
+| Patada de glúteo hacia atrás        | 4 x 20/25 por lado        | **![image](https://github.com/user-attachments/assets/0c750c67-ada1-4921-8ed1-9720924bb085)
+** |
 
 ---
 

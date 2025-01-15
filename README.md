@@ -14,14 +14,21 @@
 
 | **Ejercicio**                      | **Series x Repeticiones** | **Ejemplo**             |
 |-------------------------------------|---------------------------|--------------------------|
-| Crunch                              | 4 x 12/15                 | **IMAGEN_CRUNCH**       |
-| Elevación de piernas                | 4 x 12/15                 | **IMAGEN_ELEVACION**    |
-| Abdominales bicicleta               | 4 x 20/30                 | **IMAGEN_BICICLETA**    |
-| Sentadilla (apoyar los talones sobre discos pequeños, uno de cada lado; el apoyo de los pies va un poquito más ancho que los hombros) | 4 x 10/12 | **IMAGEN_SENTADILLAS**  |
-| Desplazamientos con barra           | 4 x 20 pasos              | **IMAGEN_DESPLAZAMIENTOS** |
+| Crunch                              | 4 x 12/15                 | **![image](https://github.com/user-attachments/assets/00792b6c-b864-4315-9d88-e77cf0a1ddd9)
+**       |
+| Elevación de piernas                | 4 x 12/15                 | **![image](https://github.com/user-attachments/assets/19895bee-7ba8-4acb-a0ff-93b2c52dc887)
+**    |
+| Abdominales bicicleta               | 4 x 20/30                 | **![image](https://github.com/user-attachments/assets/c20e1ffc-b182-43a2-888a-7e76c80bec5c)
+**    |
+| Sentadilla (apoyar los talones sobre discos pequeños, uno de cada lado; el apoyo de los pies va un poquito más ancho que los hombros) | 4 x 10/12 | **![image](https://github.com/user-attachments/assets/7bb6b251-c365-43df-8e66-ad2ce5d11aef)
+**  |
+| Desplazamientos con barra           | 4 x 20 pasos              | **![image](https://github.com/user-attachments/assets/cd803355-5043-4b74-96d9-b14af9ea3cbe)
+** |
 | Sentadilla cerrada (el apoyo de los pies va junto, pero las rodillas van más abiertas que los pies) | 4 x 10/12 | **IMAGEN_SENTADILLA_CERRADA** |
-| Sentadilla estática                 | 4 x 40"                   | **IMAGEN_SENTADILLA_ESTATICA** |
-| Extensión de cuádriceps             | 4 x 15                    | **IMAGEN_CUADRICEPS**   |
+| Sentadilla estática                 | 4 x 40"                   | **![image](https://github.com/user-attachments/assets/00d9b42f-f284-459f-9e27-a25d2f7acc12)
+** |
+| Extensión de cuádriceps             | 4 x 15                    | **![Uploading image.png…]()
+**   |
 
 ---
 

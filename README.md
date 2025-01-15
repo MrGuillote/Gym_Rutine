@@ -48,19 +48,27 @@
 ** |
 | Patada de glúteo hacia atrás        | 4 x 20/25 por lado        | **![image](https://github.com/user-attachments/assets/0c750c67-ada1-4921-8ed1-9720924bb085)
 ** |
+| Caminata lateral ( con banda elastica) (sacar bien la cola)        | 4 x 20 a 30 pasos       | **![image](https://github.com/user-attachments/assets/8aa7fa48-2c67-4af2-a50f-8ca251f28c7e)
 
+** |
 ---
 
 ## **Miércoles**
 
 | **Ejercicio**                      | **Series x Repeticiones** | **Ejemplo**             |
 |-------------------------------------|---------------------------|--------------------------|
-| Gemelos con barra                   | 6 x 20/30 (descanso 30-40 seg) | **IMAGEN_GEMELOS**   |
-| Remo con barra                      | 4 x 15                    | **IMAGEN_REMO_BARRA**   |
-| Vuelos posteriores                  | 4 x 15                    | **IMAGEN_VUELOS_POSTERIORES** |
-| Press militar                       | 4 x 15                    | **IMAGEN_PRESS_MILITAR** |
-| Vuelos laterales                    | 4 x 15                    | **IMAGEN_VUELOS_LATERALES** |
-| Fondos de tríceps                   | 4 x 15                    | **IMAGEN_TRICEPS**      |
+| Gemelos con barra                   | 6 x 20/30 (descanso 30-40 seg) | **![image](https://github.com/user-attachments/assets/a950ccc6-f21b-4b3d-adf9-135d7279378f)
+**   |
+| Remo con barra                      | 4 x 15                    | **![image](https://github.com/user-attachments/assets/ed2d258a-793f-4488-ba58-5c8f957c8f3b)
+**   |
+| Vuelos posteriores                  | 4 x 15                    | **![image](https://github.com/user-attachments/assets/3c55aebf-6fa9-4115-8ca9-371064ff1aea)
+** |
+| Press militar                       | 4 x 15                    | **![image](https://github.com/user-attachments/assets/c2327341-86c2-4c9d-9763-9e7144760c7b)
+** |
+| Vuelos laterales                    | 4 x 15                    | **![image](https://github.com/user-attachments/assets/53e6bd16-401d-407b-894c-7432cf84c649)
+** |
+| Fondos de tríceps  (espalda recta)                 | 4 x 15                    | **![image](https://github.com/user-attachments/assets/11fcbaa5-9e9d-48f7-b26c-45770bf02540)
+**      |
 
 ---
 

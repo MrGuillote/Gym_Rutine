@@ -1,82 +1,85 @@
-# **Plan de Entrenamiento: Semana 1**
+# **Plan de Entrenamiento: María Laura Veliz**
 
 ---
 
-## **Lunes: Rutina de Ejercicios**
-
-### **Objetivo del Día:** Fortalecer abdomen y piernas.  
-
----
-
-### **Ejercicios**
-
-1. **Crunch**  
-   **Series/Repeticiones:** 4 x 12/15  
-   <img src="https://github.com/user-attachments/assets/04abcd6b-cef3-4a8c-812a-d1890337f5ef" width="120px" height="120px" />
+## **Instrucciones Generales**
+- **Calentamiento:** Serie previa del primer ejercicio, pero sin peso.  
+- **Cardio:** Cardio en ayunas, 35 minutos de caminata rápida.  
+- **Descansos:** 40-60 segundos entre series (a menos que indique algo diferente en el cuadro).  
+- **Cargas:** Ajustar según tu capacidad.
 
 ---
 
-2. **Elevación de piernas**  
-   **Series/Repeticiones:** 4 x 12/15  
-   <img src="https://github.com/user-attachments/assets/e75d69d7-bfcc-46a0-95bd-f3f73de490f1" width="120px" height="120px" />
+## **Lunes**
+
+| **Ejercicio**                      | **Series x Repeticiones** | **Ejemplo**             |
+|-------------------------------------|---------------------------|--------------------------|
+| Crunch                              | 4 x 12/15                 | **IMAGEN_CRUNCH**       |
+| Elevación de piernas                | 4 x 12/15                 | **IMAGEN_ELEVACION**    |
+| Abdominales bicicleta               | 4 x 20/30                 | **IMAGEN_BICICLETA**    |
+| Sentadilla (apoyar los talones sobre discos pequeños, uno de cada lado; el apoyo de los pies va un poquito más ancho que los hombros) | 4 x 10/12 | **IMAGEN_SENTADILLAS**  |
+| Desplazamientos con barra           | 4 x 20 pasos              | **IMAGEN_DESPLAZAMIENTOS** |
+| Sentadilla cerrada (el apoyo de los pies va junto, pero las rodillas van más abiertas que los pies) | 4 x 10/12 | **IMAGEN_SENTADILLA_CERRADA** |
+| Sentadilla estática                 | 4 x 40"                   | **IMAGEN_SENTADILLA_ESTATICA** |
+| Extensión de cuádriceps             | 4 x 15                    | **IMAGEN_CUADRICEPS**   |
 
 ---
 
-3. **Abdominales bicicleta**  
-   **Series/Repeticiones:** 4 x 20/30  
-   <img src="https://github.com/user-attachments/assets/11d8bce9-16c8-408e-b428-31d2d127f5e8" width="120px" height="120px" />
+## **Martes**
+
+| **Ejercicio**                      | **Series x Repeticiones** | **Ejemplo**             |
+|-------------------------------------|---------------------------|--------------------------|
+| Peso muerto rumano con barra (sacar bien la cola) | 4 x 15 (bajar lento)      | **IMAGEN_RUMANO_BARRA** |
+| Sentadilla búlgara                  | 4 x 12 por lado           | **IMAGEN_BULGARA**      |
+| Peso muerto sumo (sacar bien la cola) | 4 x 12                    | **IMAGEN_SUMO**         |
+| Elevación de pelvis con barra       | 4 x 20 (hacer lento)      | **IMAGEN_PELOTAS_PELVIS** |
+| Patada de glúteo hacia atrás        | 4 x 20/25 por lado        | **IMAGEN_GLUTEOS_PATADA** |
 
 ---
 
-4. **Sentadilla (con discos pequeños)**  
-   **Series/Repeticiones:** 4 x 10/12  
-   <img src="https://github.com/user-attachments/assets/4f807525-ad61-4260-8126-1722eb2c5d09" width="120px" height="120px" />
+## **Miércoles**
+
+| **Ejercicio**                      | **Series x Repeticiones** | **Ejemplo**             |
+|-------------------------------------|---------------------------|--------------------------|
+| Gemelos con barra                   | 6 x 20/30 (descanso 30-40 seg) | **IMAGEN_GEMELOS**   |
+| Remo con barra                      | 4 x 15                    | **IMAGEN_REMO_BARRA**   |
+| Vuelos posteriores                  | 4 x 15                    | **IMAGEN_VUELOS_POSTERIORES** |
+| Press militar                       | 4 x 15                    | **IMAGEN_PRESS_MILITAR** |
+| Vuelos laterales                    | 4 x 15                    | **IMAGEN_VUELOS_LATERALES** |
+| Fondos de tríceps                   | 4 x 15                    | **IMAGEN_TRICEPS**      |
 
 ---
 
-5. **Desplazamientos con barra**  
-   **Series/Repeticiones:** 4 x 20 pasos  
-   <img src="https://github.com/user-attachments/assets/a1c61600-4d4d-4d42-b353-97df4d028dda" width="120px" height="120px" />
+## **Jueves**
+
+| **Ejercicio**                      | **Series x Repeticiones** | **Ejemplo**             |
+|-------------------------------------|---------------------------|--------------------------|
+| Curl femoral con tobilleras         | 4 x 20 por lado           | **IMAGEN_CURL_FEMORAL** |
+| Isquios con mancuernas en colchoneta (o con tobilleras) | 4 x 15 (descanso 30 seg)  | **IMAGEN_ISQUIOS_MANCUERNAS** |
+| Peso muerto rumano                  | 4 x 15 (bajar lento)      | **IMAGEN_RUMANO_LENTO** |
+| Patada de glúteo hacia atrás        | 4 x 20/25 por lado        | **IMAGEN_PATADA_GLUTEOS** |
+| Elevación de pelvis con barra       | 4 x 20 (hacer lento)      | **IMAGEN_ELEVACION_PELVIS** |
+| Caminata lateral con banda elástica (sacar bien la cola) | 4 x 20/30 pasos           | **IMAGEN_CAMINATA_BANDA** |
 
 ---
 
-6. **Sentadilla cerrada**  
-   **Series/Repeticiones:** 4 x 10/12  
-   <img src="https://github.com/user-attachments/assets/d4a89f36-8fc8-41b9-b235-9b3e117af132" width="120px" height="120px" />
+## **Viernes**
+
+| **Ejercicio**                      | **Series x Repeticiones** | **Ejemplo**             |
+|-------------------------------------|---------------------------|--------------------------|
+| Curl femoral con tobilleras         | 4 x 20 por lado           | **IMAGEN_CURL_FEMORAL** |
+| Isquios con mancuernas en colchoneta (o con tobilleras) | 4 x 15 (descanso 30 seg)  | **IMAGEN_ISQUIOS_MANCUERNAS** |
+| Peso muerto rumano                  | 4 x 15 (bajar lento)      | **IMAGEN_RUMANO_LENTO** |
+| Patada de glúteo hacia atrás        | 4 x 20/25 por lado        | **IMAGEN_PATADA_GLUTEOS** |
+| Elevación de pelvis con barra       | 4 x 20 (hacer lento)      | **IMAGEN_ELEVACION_PELVIS** |
+| Caminata lateral con banda elástica (sacar bien la cola) | 4 x 20/30 pasos           | **IMAGEN_CAMINATA_BANDA** |
 
 ---
 
-7. **Sentadilla estática**  
-   **Series/Repeticiones:** 4 x 40 segundos  
-   <img src="https://github.com/user-attachments/assets/f69df989-c11f-49d4-9374-74f12737bf38" width="120px" height="120px" />
+## **Plan de Alimentación**
+
+*(Repetir la sección de alimentación anterior aquí, si aplica.)*
 
 ---
 
-8. **Extensión de cuádriceps**  
-   **Series/Repeticiones:** 4 x 15  
-   <img src="https://github.com/user-attachments/assets/013d91f8-1a39-49f1-83dd-9cee5d3ce414" width="120px" height="120px" />
-
----
-
-### **Instrucciones Generales**
-1. **Calentamiento:** Realiza una serie del primer ejercicio sin peso.  
-2. **Cardio:** 35 minutos de caminata rápida en ayunas.  
-3. **Descansos:** 40-60 segundos entre series.  
-
----
-
-### **Notas Motivadoras**
-- 💡 **Técnica sobre velocidad:** Asegúrate de realizar cada ejercicio con la técnica correcta.  
-- 🏋️ **Incremento progresivo:** Aumenta el peso o repeticiones semana a semana.  
-- 🎯 **Meta:** Disfruta el proceso y celebra tus avances.
-
----
-
-### **Características del Diseño:**
-1. **Formato de lista:** Similar al estilo de las imágenes proporcionadas, cada ejercicio está enumerado y tiene su descripción.  
-2. **Imágenes uniformes:** Tamaño ajustado (120px x 120px) para consistencia visual.  
-3. **Texto destacado:** Los títulos y repeticiones son prominentes y fáciles de seguir.
-
----
-
-Este formato es limpio, visual y funcional, ideal para uso digital o impresión. Si necesitas personalizarlo más o convertirlo en PDF, ¡puedes decírmelo! 😊
+Este diseño incluye ahora los viernes de forma completa, respetando tu estructura. Reemplaza los `IMAGEN_XXXXX` por las imágenes correspondientes. Avísame si necesitas más ajustes. 😊

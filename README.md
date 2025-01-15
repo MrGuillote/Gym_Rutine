@@ -27,7 +27,8 @@
 | Sentadilla cerrada (el apoyo de los pies va junto, pero las rodillas van más abiertas que los pies) | 4 x 10/12 | **IMAGEN_SENTADILLA_CERRADA** |
 | Sentadilla estática                 | 4 x 40"                   | **![image](https://github.com/user-attachments/assets/00d9b42f-f284-459f-9e27-a25d2f7acc12)
 ** |
-| Extensión de cuádriceps             | 4 x 15                    | **![Uploading image.png…]()
+| Extensión de cuádriceps             | 4 x 15                    | **![image](https://github.com/user-attachments/assets/e0330efd-3018-4d22-ab2e-bd8fc96503ec)
+
 **   |
 
 ---
